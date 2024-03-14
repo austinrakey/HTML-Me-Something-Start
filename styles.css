@@ -1,1 +1,65 @@
 /* Write your CSS here! */
+#GH {
+    display: block;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#body{
+background-image: ;
+background-color: black;
+/* text-align: center; */
+margin: 0 auto;
+}
+
+
+P {
+color:whitesmoke;
+text-align: center;
+margin: auto;
+width: 640px;
+padding: 40px;
+font-size: 25px;
+/* width: 60%; */
+/* margin-left: auto;
+margin-right: auto;
+width: 8em */
+}
+
+.funParagraph {
+    color: green;
+    text-align: center;
+    margin: auto;
+    width: 640px;
+    padding: 40px;
+    font-size: 25px;
+    }
+
+  #mainHeading {
+    font-family: 'Old English Five', sans-serif;                                                
+text-align: center;
+color: red;
+ font-size: 80px;
+  }
+
+  .header{
+    font-family: 'Old English Five', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 45px;
+  }
+
+  .footer {
+    color: whitesmoke;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+
+  iframe {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+  }
